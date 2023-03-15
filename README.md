@@ -8,6 +8,7 @@ Se plantean como **objetivos específicos**:
 * Analizar las características generales de los vuelos que tienen mayores inconvenientes (Por ejemplo: demoras en partida/arribo), y ver si la información recolectada es de utilidad para proponer soluciones a los mismos. 
 * Desarrollar un modelo predictivo que permita identificar el nivel de satisfacción de los pasajeros respecto a los servicios brindados.
 
-![presentacion1](https://user-images.githubusercontent.com/87724440/225168615-7b71bf74-b17f-47f2-a4ee-18348a54a5de.png)
-![presentacion2](https://user-images.githubusercontent.com/87724440/225168618-f829a4e3-ab39-4a35-b29d-99e541e9b75a.png)
-![presentacion3](https://user-images.githubusercontent.com/87724440/225168620-069c0b19-ac1f-41b1-aa04-0b59d972124a.png)
+![Diapositiva1](https://user-images.githubusercontent.com/87724440/225169507-d9c8f955-87a2-469e-af1c-77ae20f9139c.PNG)
+![Diapositiva2](https://user-images.githubusercontent.com/87724440/225169509-4af9c4cd-bdbc-44e0-8d6f-80fcf51091a4.PNG)
+![Diapositiva3](https://user-images.githubusercontent.com/87724440/225169513-88788629-f2a4-43a6-9f3f-9e0e8024c5a6.PNG)
+
